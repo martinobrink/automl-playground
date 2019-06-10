@@ -18,7 +18,7 @@ The code is based on training data from 30k labelled comments on Wikipedia ('Wik
 
 ## Running the sample
 
-1) cd into the root directory of this repo where this README.md file is placed.
+1) cd into the root directory of this repo where this `README.md` file is placed.
 
 2) Train a simple model using the small dataset and using a short amount of time:
 

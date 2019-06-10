@@ -4,7 +4,7 @@ using System.Linq;
 using Microsoft.ML;
 using SampleBinaryClassification.Model.DataModels;
 
-namespace SampleBinaryClassification.ConsoleApp
+namespace CustomBinaryClassificationConsoleApp
 {
     class Program
     {
